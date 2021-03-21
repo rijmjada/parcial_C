@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 /*Debemos realizar la carga de una compra de 5(cinco) productos de prevenci�n de contagio
-        De cada uno debo obtener los siguientes datos:
+        De cada uno deb obtener los siguientes datos:
         el nombre del producto
         el tipo de producto (validar "ALCOHOL" , "IAC" o "QUAT") ,
         el precio (validar entre 100 y 300),
